@@ -1,6 +1,6 @@
 /*	Kelompok 4 Programming URO :
 	1. Mohammad Yasyin A.R.S.	(16419224)
-	2. Mochammad Nandika Pratama(16419180)
+	2. Mochammad Nandika Pratama	(16419180)
 	3. Muhammad Alif Darmamulia	(16019420)	*/
 
 #include <stdio.h>
